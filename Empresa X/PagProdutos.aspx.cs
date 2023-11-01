@@ -11,7 +11,7 @@ namespace Empresa_X
 {
     public partial class PagProdutos : System.Web.UI.Page
     {
-        //Métodos
+        //Método
 
         protected void AtualizaGrid(string Query)
         {
